@@ -13,13 +13,13 @@
         {
             "id": 1,
             "description": "Entremeada",
-            "value": 2.50,
+            "value": 2.75,
             "categoryId": 1
         },
         {
             "id": 2,
             "description": "Bifana Simples",
-            "value": 2.50,
+            "value": 2.75,
             "categoryId": 1
         },
         {
@@ -43,13 +43,13 @@
         {
             "id": 6,
             "description": "Cachorro",
-            "value": 2.50,
+            "value": 2.75,
             "categoryId": 1
         },
         {
             "id": 7,
             "description": "Hamburguer Simples",
-            "value": 2.50,
+            "value": 2.75,
             "categoryId": 1
         },
         {
