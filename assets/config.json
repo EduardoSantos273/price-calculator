@@ -25,19 +25,19 @@
         {
             "id": 3,
             "description": "Bifana c/ Queijo",
-            "value": 3.00,
+            "value": 3.25,
             "categoryId": 1
         },
         {
             "id": 4,
             "description": "Bifana c/ Queijo e Bacon",
-            "value": 3.25,
+            "value": 3.50,
             "categoryId": 1
         },
         {
             "id": 5,
             "description": "Bifana Especial",
-            "value": 3.50,
+            "value": 3.75,
             "categoryId": 1
         },
         {
@@ -55,19 +55,19 @@
         {
             "id": 8,
             "description": "Hamburguer c/ Queijo",
-            "value": 3.00,
+            "value": 3.25,
             "categoryId": 1
         },
         {
             "id": 9,
             "description": "Hamb. c/ Queijo e Bacon",
-            "value": 3.25,
+            "value": 3.50,
             "categoryId": 1
         },
         {
             "id": 10,
             "description": "Hamburguer Especial",
-            "value": 3.50,
+            "value": 3.75,
             "categoryId": 1
         },
         {
@@ -85,7 +85,7 @@
         {
             "id": 13,
             "description": "Latas Garrafas",
-            "value": 1.20,
+            "value": 1.25,
             "categoryId": 2
         },
         {
