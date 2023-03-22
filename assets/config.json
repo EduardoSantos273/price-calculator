@@ -13,7 +13,7 @@
         {
             "id": 1,
             "description": "Entremeada",
-            "value": 2.75,
+            "value": 3.00,
             "categoryId": 1
         },
         {
@@ -43,13 +43,13 @@
         {
             "id": 6,
             "description": "Cachorro",
-            "value": 2.75,
+            "value": 3.00,
             "categoryId": 1
         },
         {
             "id": 7,
             "description": "Hamburguer Simples",
-            "value": 2.75,
+            "value": 3.00,
             "categoryId": 1
         },
         {
@@ -73,7 +73,7 @@
         {
             "id": 11,
             "description": "Vegetariana",
-            "value": 1.50,
+            "value": 2.00,
             "categoryId": 1
         },
         {
