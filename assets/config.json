@@ -84,18 +84,24 @@
         },
         {
             "id": 13,
-            "description": "Latas Garrafas",
-            "value": 1.50,
+            "description": "Latas",
+            "value": 1.60,
             "categoryId": 2
         },
         {
             "id": 14,
-            "description": "Água 0.33 cl",
-            "value": 1.00,
+            "description": "Garrafas",
+            "value": 1.50,
             "categoryId": 2
         },
         {
             "id": 15,
+            "description": "Água 0.33 cl",
+            "value": 1.10,
+            "categoryId": 2
+        },
+        {
+            "id": 16,
             "description": "Café",
             "value": 0.50,
             "categoryId": 2
